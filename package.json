@@ -1,0 +1,25 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "coursework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARVINDTRONICS/namaste-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "arvindthoppe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ARVINDTRONICS/namaste-react/issues"
+  },
+  "homepage": "https://github.com/ARVINDTRONICS/namaste-react#readme",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
