@@ -2,7 +2,7 @@
   "name": "learn-react",
   "version": "1.0.0",
   "description": "coursework",
-  "main": "App.js",
+ 
   "scripts": {
     "test": "npm jest"
   },
